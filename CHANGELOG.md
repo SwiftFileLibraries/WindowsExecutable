@@ -1,5 +1,11 @@
 #  Changelog
 
+## 1.0.1
+
+### Fixed
+
+- Fixed visibility of structure properties.
+
 ## 1.0.0
 
 ### Added

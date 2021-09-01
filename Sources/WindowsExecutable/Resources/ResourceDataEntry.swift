@@ -13,9 +13,10 @@ public struct ResourceDataEntry: Decodable {
     // MARK: - Properties
     
     /// The data of the entry.
-    var data: Data
+    public var data: Data
     
-    var unicodeCodePage: UInt32
+    /// The code page of the unicode character set to use.
+    public var unicodeCodePage: UInt32
     
     // MARK: - Initialization
     
