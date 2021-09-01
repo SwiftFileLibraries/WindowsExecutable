@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "BinaryCodable",
+        "repositoryURL": "https://github.com/SwiftFileLibraries/BinaryCodable.git",
+        "state": {
+          "branch": null,
+          "revision": "a75c7e09fdbd205170a6197de4a7274977fb4899",
+          "version": "2.1.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
